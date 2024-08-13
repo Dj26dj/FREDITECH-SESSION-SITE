@@ -1,27 +1,27 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 # SESSION-SITE
 
-# MADE BY IBRAHIM ADAMS
+# MADE BY FREDI EZRA 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## BLACK PANTHER SCANNER
+## FRECYBER SCANNER
 
 
-- <a href="https://panther-md-2a49b9e6e8b0.herokuapp.com/pair"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## BMW MD SCANNER
-
-
-- <a href="https://bmw-md-f329b3a0ce76.herokuapp.com/pair"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://frecyber-md-site-8f48f2e443c0.herokuapp.com/pair"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## ONRENDER SCANNER (GENERAL)
+## LUCKY MD V6 SCANNER
 
-- <a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+- <a href="https://lucky-site-59b16cd2d3d0.herokuapp.com/pair"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## FREDI MD SCANNER 
+
+- <a href="https://fredi-md-644c35ba97c9.herokuapp.com/pair"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
